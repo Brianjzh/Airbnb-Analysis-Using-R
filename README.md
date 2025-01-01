@@ -53,7 +53,15 @@ This project demonstrates a comprehensive analysis of Airbnb listings in Washing
 - Recommended investment strategies for optimizing property revenue in Washington, DC.
 
 ---
+## Some Key Visualizations
 
+### Distribution of Neighborhoods
+![Distribution of Neighborhoods](images/DistributionNeighborhoods.png)
+
+### Regression Analysis
+![Regression Analysis](images/RegAnalysis.png)
+
+---
 ## Outcomes
 - Delivered a comprehensive analysis integrating statistical modeling and business insights.
 - Provided a framework for Airbnb hosts to optimize revenue through data-driven decisions.
