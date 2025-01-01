@@ -59,7 +59,7 @@ This project demonstrates a comprehensive analysis of Airbnb listings in Washing
 ![Distribution of Neighborhoods](images/DistributionNeighborhoods)
 
 ### Regression Analysis
-![Regression Analysis](images/DistributionNeighborhoods)
+![Regression Analysis](images/RegAnalysis)
 
 ---
 ## Outcomes
