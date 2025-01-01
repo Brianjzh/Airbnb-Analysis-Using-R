@@ -59,9 +59,4 @@ This project demonstrates a comprehensive analysis of Airbnb listings in Washing
 - Provided a framework for Airbnb hosts to optimize revenue through data-driven decisions.
 - Demonstrated advanced proficiency in R programming and data analysis.
 
----
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/airbnb-analysis.git
